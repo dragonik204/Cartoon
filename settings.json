@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": Nyxia.aternos.me,
-    "port": 45975,
-    "version": 26.1.2,
+    "ip": Nyxia.aternos.me ,
+    "port": 45975 ,
+    "version": 26.1.2 ,
     "try-creative": true
   },
   "position": {
